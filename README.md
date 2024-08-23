@@ -1,7 +1,5 @@
 
-<a href="https://github.com/kishore720721110015" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=kishore720721110015&count_private=true&theme=radical" />
-</a>
+
 
 <h1>Hi 👋, I'm  Kishore S</h1>
 
@@ -33,6 +31,10 @@
 
 <a href="https://github.com/kishore720721110015" target="_blank">
 <img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=kishore720721110015&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only" />
+</a>
+
+<a href="https://github.com/kishore720721110015" target="_blank">
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=kishore720721110015&count_private=true&theme=radical" />
 </a>
 
 <h2>📪 Contact me</h2>
