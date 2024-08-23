@@ -35,7 +35,7 @@
 
 <a href="https://github.com/kishore720721110015" target="_blank">
 <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=kishore720721110015&count_private=true&theme=radical" />
-</a>
+</a><br>
 
 <h2>📪 Contact me</h2>
 <p>
