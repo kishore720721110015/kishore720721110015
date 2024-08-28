@@ -1,4 +1,4 @@
-# 💫 About Me:
+ About Me:
 🌱 I’m currently learning Full Stack web-development<br>📚 Final year Student at Hindusthan College of Engineering & Technology at Coimbatore<br>💻 Front-end Developer
 
 
